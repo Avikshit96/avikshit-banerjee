@@ -4,7 +4,7 @@
 
 ### Natural Language Processing (NLP) 
 
-[Retrieval-Based basic chatbot](https://github.com/avikshit-banerjee/Chatbot)
+[Retrieval-Based basic chatbot](https://github.com/avikshit-banerjee/Chatbot/blob/main/Chatbot.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
