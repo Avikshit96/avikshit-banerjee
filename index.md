@@ -10,7 +10,7 @@
 A retrieval-based chatbot uses predefined input patterns and responses. It then uses some type of heuristic approach to select the appropriate response. It is widely used in the industry to make goal-oriented chatbots where we can customize the tone and flow of the chatbot to drive our customers with the best experience
 
 ---
-[Big Data, Invisible Grammar](https://github.com/avikshit-banerjee/Semantic-and-Sentiment-Analysis))
+[Big Data, Invisible Grammar](https://github.com/avikshit-banerjee/Semantic-and-Sentiment-Analysis)
 <img src="images/thesis.png?raw=true"/>
 
 Sentiment and semantic analysis of low-frequency linguistics on Twitter across various geuographies using RoBERTa (BERT-based Transformer)
