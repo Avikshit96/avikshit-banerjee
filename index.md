@@ -13,8 +13,9 @@ A retrieval-based chatbot uses predefined input patterns and responses. It then 
 [Big Data, Invisible Grammar](https://github.com/avikshit-banerjee/Semantic-and-Sentiment-Analysis)
 <img src="images/thesis.jpg?raw=true"/>
 
-Sentiment and semantic analysis of low-frequency linguistics on Twitter across various geographies using RoBERTa (a BERT-based Transformer) language model.
-Languages used: Python & R
+Sentiment and semantic analysis of low-frequency linguistics on Twitter across various geographies using *RoBERTa* (a *BERT*-based Transformer) language model.
+- **Languages used**: Python & R
+- **Skills**: EDA, NLP, Statistical Modelling, Data Visualisation
 
 ---
 [Project 3 Title](http://example.com/)
