@@ -7,7 +7,9 @@
 [Retrieval-Based basic chatbot](https://github.com/avikshit-banerjee/Chatbot/blob/main/Chatbot.ipynb)
 <img src="images/chatbot.png?raw=true"/>
 
-A retrieval-based chatbot uses predefined input patterns and responses. It then uses some type of heuristic approach to select the appropriate response. It is widely used in the industry to make goal-oriented chatbots where we can customize the tone and flow of the chatbot to drive our customers with the best experience
+A retrieval-based chatbot uses predefined input patterns and responses. It then uses some type of heuristic approach to select the appropriate response. It is widely used in the industry to make goal-oriented chatbots where we can customize the tone and flow of the chatbot to drive our customers with the best experience.
+- **Languages used**: Python 
+- **Skills**: NLP, Language Modeling, Deep Learning
 
 ---
 [Big Data, Invisible Grammar](https://github.com/avikshit-banerjee/Semantic-and-Sentiment-Analysis)
