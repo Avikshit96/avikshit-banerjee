@@ -14,6 +14,7 @@ A retrieval-based chatbot uses predefined input patterns and responses. It then 
 <img src="images/thesis.jpg?raw=true"/>
 
 Sentiment and semantic analysis of low-frequency linguistics on Twitter across various geographies using RoBERTa (a BERT-based Transformer) language model.
+Languages used: Python & R
 
 ---
 [Project 3 Title](http://example.com/)
